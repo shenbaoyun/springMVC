@@ -6,7 +6,18 @@
 
     <groupId>com.shenbaoyun</groupId>
     <artifactId>springMVC</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>springMVC_demo1</module>
+        <module>springMVC_demo2</module>
+        <module>springMVC_demo3</module>
+        <module>springMVC_jsp</module>
+        <module>springMVC_rest</module>
+        <module>springMVC_demo4</module>
+        <module>springMVC_demo5</module>
+        <module>springMVC_annotation</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
